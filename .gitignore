@@ -1,1 +1,20 @@
+# Environment
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Jupyter
+# .ipynb_checkpoints/
+# notebooks/.ipynb_checkpoints/
+
+# Generated outputs (agent-produced files)
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+langgraph==1.0.9
+langchain==1.2.10
+openai
+python-dotenv
+langchain-openai
+langchain-core
+langchain-anthropic
